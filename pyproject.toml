@@ -9,7 +9,7 @@ dependencies = [  # pin to minor versions pre-installed on Colab
 description = "OSMnx Workshop"
 license = "MIT"
 license-files = ["LICENSE"]
-name = "OSMnx Workshop"
+name = "osmnx-workshop"
 readme = "README.md"
 requires-python = "==3.*"
 version = "2026"
