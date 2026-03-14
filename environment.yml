@@ -1,4 +1,4 @@
-name: tec
+name: osmnx-workshop
 channels:
   - conda-forge
 dependencies:
