@@ -2,9 +2,7 @@
 authors = [{ name = "Geoff Boeing", email = "boeing@usc.edu" }]
 dependencies = [  # pin to minor versions pre-installed on Colab
     "jupyterlab",
-    "numpy<2",
     "osmnx[all]==2.1.*",
-    "pandana==0.7.*",
 ]
 description = "OSMnx Workshop"
 license = "MIT"
